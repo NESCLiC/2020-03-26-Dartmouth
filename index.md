@@ -6,11 +6,11 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "43.705859"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-72.289135"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "March 26-27, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "March 26 -27, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:45am - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-03-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["James Adams", "John Cocklin", "Christian Darabos", "Lora Leligdon"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["James Adams", "John Cocklin", "Catrina Cuadra", "Christian Darabos", "Lora Leligdon"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["software-carpentry@groups.dartmouth.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-03-26-dartmouth             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
